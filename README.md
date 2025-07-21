@@ -32,11 +32,11 @@ Users should be able to:
 
 ### Screenshot
 
-![](./Project%20Screenshots/Screenshot%202025-07-21%20182020.png.png)
+![](./Project%20Screenshots/Screenshot%202025-07-21%20182020.png)
 
-![](./Project%20Screenshots/Screenshot%202025-07-21%20182053.png.png)
+![](./Project%20Screenshots/Screenshot%202025-07-21%20182053.png)
 
-![](./Project%20Screenshots/Screenshot%202025-07-21%20182125.png.png)
+![](./Project%20Screenshots/Screenshot%202025-07-21%20182125.png)
 
 ### Links
 
