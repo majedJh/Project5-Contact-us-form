@@ -59,7 +59,7 @@ First Time validating a form, I revised Regex completely, learnt how to make a c
 
 ### Continued development
 
-I'd to learn how to link my project with a back-end side so I can send the validated data.
+I'd like to learn how to link my project with a back-end side so I can send the validated data.
 
 ### Useful resources
 
